@@ -15,12 +15,12 @@ page_sections:
   email_recipient: alastair@standingwave.co
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2018/06/21/forestry-symbol.svg"
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: Haaappy Trees
+  content: Yarp
   cta:
     enabled: false
     url: ''
