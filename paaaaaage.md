@@ -11,8 +11,8 @@ page_sections:
     link_text: "/def-not-a-draft"
 - template: signup-bar
   block: cta-bar
-  content: ''
-  email_recipient: ''
+  content: "<strong>Click Me</strong>"
+  email_recipient: alastair@standingwave.co
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
