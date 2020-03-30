@@ -8,7 +8,8 @@ description: ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Bl
 baseurl: "/"
 url: ''
 defaults:
-- scope: ''
+- scope:
+    path: '""'
   values:
     layout: blocks
 plugins:
