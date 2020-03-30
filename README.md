@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57de59eb-b7ac-4548-9368-de0cbacbc20b/deploy-status)](https://app.netlify.com/sites/festive-jennings-4ce82a/deploys)
+
 ![uBuild Blocks](uploads/2018/06/21/theme.png)
 
 # uBuild Jekyll Theme
