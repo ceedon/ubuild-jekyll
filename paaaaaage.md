@@ -5,8 +5,10 @@ date: 2020-03-30 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
-  navigation: []
+  logo: "/uploads/2020/03/30/standing wave final file-01.png"
+  navigation:
+  - link: Test
+    link_text: "/def-not-a-draft"
 - template: signup-bar
   block: cta-bar
   content: ''
