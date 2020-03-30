@@ -9,9 +9,9 @@ baseurl: "/"
 url: ''
 defaults:
 - scope:
-    path: '""'
+    path: ''
   values:
-    layout: blocks
+    layout: 'blocks'
 plugins:
 - jekyll-feed
 - jekyll-menus
