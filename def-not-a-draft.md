@@ -10,5 +10,9 @@ cta:
   enabled: true
   url: lmgtfy.com/call-to-action
   button_text: To Action!
+menu:
+  main:
+    weight: 2
+    title: Mehbe Draft?
 
 ---
