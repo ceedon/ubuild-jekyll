@@ -18,6 +18,25 @@ page_sections:
     image: "/uploads/2020/04/02/christian-lunde-Gf8xG0a0XDY-unsplash-1.jpg"
     alt_text: Biz Guy!
   background_image: ''
+- template: hero-banner-w-image
+  block: hero-2
+  headline: ''
+  content: "<strong>Share Opportunity</strong><br><br>We help organizations evolve
+    without losing authenticity. We serve teams that need different perspectives and
+    practices to overcome the challenges that arise with growth. With our support,
+    groups discover new capabilities and fresh approaches to enduring problems.Anything
+    less than a partnership with our clients is unfulfilling and unlikely to succeed.
+    It is only through collaborative relationships that we can achieve our mission.
+    We believe in transparency around cost and value, so we leverage results-dependent
+    pricing to reinforce our intent and stake in the outcomes."
+  background_image: "/uploads/2020/03/30/craig-melville-2O_otDQHFSQ-unsplash.jpg"
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
