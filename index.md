@@ -30,7 +30,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2020/04/02/christian-lunde-Gf8xG0a0XDY-unsplash-1.jpg"
+    image: ''
     alt_text: Biz Guy!
   background_image: "/uploads/2020/04/02/andreas-dress-8U50myFAU1k-unsplash-1.jpg"
 - template: content-feature
@@ -65,14 +65,20 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  headline: Philosophy
+  content: We believe that the potential of any organization resides within the people
+    who comprise it–in people’s connection to each other and engagement in their work.
+    We believe that latent potential can only be realized by the people themselves.
+    We seek to support that process by taking the time to understand the larger context,
+    staying curious, helping hold the space for crucial conversations, sharing principles
+    as well as methods, and keeping the creation of real, long-term value as everyone’s
+    shared focus. We bring a healthy respect for the complexity of sociotechnical
+    systems, and focus intently on vision / culture level outcomes instead of rigid,
+    myopic implementations.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+  image: "/uploads/2020/04/02/joey-kyber-45FJgZMXCK8-unsplash.jpg"
+  caption: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
