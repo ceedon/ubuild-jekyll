@@ -20,8 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: <strong><img src="/uploads/2020/03/30/standing wave final file-01.png"><br><br>Fulfill
-    Your People;  Fulfill Your Purpose</strong>
+  headline: "<strong>STANDING WAVE<br><br>Fulfill Your People;  Fulfill Your Purpose</strong>"
   content: "<em>You know your team has the potential to perform at a higher level–to
     deliver on business goals while propagating a culture where people thrive for
     the long haul. We know it too. Let’s work together to build an environment that
