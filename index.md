@@ -18,6 +18,10 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Standing Wave<br><br>FULFILL YOUR PEOPLE; FULFILL YOUR PURPOSE.</strong>"
@@ -64,10 +68,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
