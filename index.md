@@ -30,9 +30,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: ''
+    image: "/uploads/2020/04/02/andreas-dress-8U50myFAU1k-unsplash-1.jpg"
     alt_text: Biz Guy!
-  background_image: "/uploads/2020/04/02/andreas-dress-8U50myFAU1k-unsplash-1.jpg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
