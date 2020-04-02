@@ -31,8 +31,8 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2020/04/02/christian-lunde-Gf8xG0a0XDY-unsplash.jpg"
-    alt_text: ''
-  background_image: ''
+    alt_text: Biz Guy!
+  background_image: "/uploads/2020/04/02/andreas-dress-8U50myFAU1k-unsplash.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
