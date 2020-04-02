@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>FULFILL YOUR PEOPLE; FULFILL YOUR PURPOSE.</strong>
+  headline: "<strong>Standing Wave<br><br>FULFILL YOUR PEOPLE; FULFILL YOUR PURPOSE.</strong>"
   content: "<em>You know your team has the potential to perform at a higher level–to
     deliver on business goals while propagating a culture where people thrive for
     the long haul. We know it too. Let’s work together to build an environment that
@@ -31,7 +31,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2020/04/02/christian-lunde-Gf8xG0a0XDY-unsplash.jpg"
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
