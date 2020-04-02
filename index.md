@@ -15,7 +15,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2020/04/02/andreas-dress-8U50myFAU1k-unsplash-1.jpg"
+    image: "/uploads/2020/04/02/christian-lunde-Gf8xG0a0XDY-unsplash-1.jpg"
     alt_text: Biz Guy!
   background_image: ''
 - template: content-feature
