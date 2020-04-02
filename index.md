@@ -20,15 +20,17 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: uBuild <br><strong>FULFILL YOUR PEOPLE; FULFILL YOUR PURPOSE.</strong>
+  content: "<em>You know your team has the potential to perform at a higher level–to
+    deliver on business goals while propagating a culture where people thrive for
+    the long haul. We know it too. Let’s work together to build an environment that
+    enables your people to realize their full potential.</em>"
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/04/02/christian-lunde-Gf8xG0a0XDY-unsplash.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
