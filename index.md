@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/03/30/standing wave final file-01.png"
+  logo: ''
   navigation:
   - link: "/"
     link_text: Home
@@ -18,10 +18,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Standing Wave<br><br>FULFILL YOUR PEOPLE; FULFILL YOUR PURPOSE.</strong>"
@@ -55,12 +51,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Who are we?</strong>"
+  content: We’re learners, experimenters, and people passionate about helping others
+    create lasting, meaningful value. We come from organizations small and not so
+    small. We’ve held shovels in the trenches and seats at the leadership table, developing
+    teams and driving organizational change along the way. We always show up curious
+    and ready to listen. We come with open minds and a toolbox of approaches, disciplines,
+    and methodologies–none of which will be exactly right for you, but that’s the
+    point. We’re here to help you cultivate a system from which the full force of
+    your organization will emerge.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2020/04/02/adomas-aleno--ySLeov8m_8-unsplash.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
@@ -68,6 +69,10 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
