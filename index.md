@@ -34,12 +34,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Shared Opportunity</strong>"
+  content: We help organizations evolve without losing authenticity. We serve teams
+    that need different perspectives and practices to overcome the challenges that
+    arise with growth. With our support, groups discover new capabilities and fresh
+    approaches to enduring problems.Anything less than a partnership with our clients
+    is unfulfilling and unlikely to succeed. It is only through collaborative relationships
+    that we can achieve our mission. We believe in transparency around cost and value,
+    so we leverage results-dependent pricing to reinforce our intent and stake in
+    the outcomes.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2020/03/30/craig-melville-2O_otDQHFSQ-unsplash.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
