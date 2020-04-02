@@ -62,7 +62,7 @@ page_sections:
     your organization will emerge.
   media:
     image: "/uploads/2020/04/02/adomas-aleno--ySLeov8m_8-unsplash.jpg"
-    alt_text: Customize Blocks
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
